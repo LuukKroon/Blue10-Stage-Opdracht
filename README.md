@@ -1,4 +1,4 @@
-Blue10 Stage-Opdracht: CLI Password Manager
+## Blue10 Stage-Opdracht: CLI Password Manager
 
 Deze repository bevat mijn uitwerking voor de backend stage-opdracht bij Blue10. Het project is een command-line gebaseerde Password Manager, gebouwd in C# / .NET, met een sterke focus op security en een schone, schaalbare architectuur.
 
